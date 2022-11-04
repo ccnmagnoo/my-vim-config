@@ -1,0 +1,53 @@
+{
+	"analytics-uuid": "1eca49cc-4009-4dc0-9196-ad417c9e8c2b",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1623209625531
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "106617641941950849636",
+		"hd": "dvt.cl",
+		"email": "ccampos@dvt.cl",
+		"email_verified": true,
+		"at_hash": "LjIjhfkDct3kgbo3cXo23g",
+		"iat": 1623209983,
+		"exp": 1623213583
+	},
+	"tokens": {
+		"expires_at": 1623292641681,
+		"refresh_token": "1//0hXHPawWlhOmQCgYIARAAGBESNwF-L9IrZxj3RdamlrnLRWSfHVLPTWHzOFGwUjFAzvYkjivqWF7cxwS0g7qDlIxEb_it1h5XbyE",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMDS3CN9988n3cuCmbO5Kixyh3l6foZ6jgCodf_tmayBDlNNhRMZ9bZf9EC0oANl1TUZEPKjKeECpEH1N2OhE704oiVen6F5xqBX26a7i8GZS3et18LjO8Nml_LtzV9ohK1zQfQYBXucFw6_t96oEHstfCF9Gt98Tw",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloudplatformprojects.readonly openid https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjZhMWQyNmQ5OTJiZTdhNGI2ODliZGNlMTkxMWY0ZTlhZGM3NWQ5ZjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTA2NjE3NjQxOTQxOTUwODQ5NjM2IiwiaGQiOiJkdnQuY2wiLCJlbWFpbCI6ImNjYW1wb3NAZHZ0LmNsIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJ6cXNIMDNpb0ZlLVBIZG9NZkpvQmdRIiwiaWF0IjoxNjIzMjg5MDQxLCJleHAiOjE2MjMyOTI2NDF9.DC1WY74bw1OYjwRkRKeEuGl-Rr27QXu9eNWh8WmQk9k69Q6aVby_a0jsPcS-TlwcUkJEA5Ym2dCXABjhxGnt8VHPppkHqSBIsa-4a5YPYFtyN4mqCEdMghYyxNolPP8RkwvXqOJ8wDZ16m3kVpENZJn6oN7YQv8Q6N9pU8ePgzBARLxyYCxZtFsOWD_pE1Mk4plcsbPAJW-k_FtVdi2i20xjGF_0r7DOEc1lOE44ug58YkBrk6v3LgrYdIEzQfgJXN5IuW0VbPeYN5mEUgsgh0F1iakLqkxlec8EsauPzRsAAMZbfIFBqkartWAqmeK-cJgXtWqZWjnxwnhevUo24Q"
+	},
+	"activeProjects": {
+		"D:\\DevApp\\miaprpro_api": "myappt50"
+	},
+	"adminsdkconfig": {
+		"myappt50": {
+			"projectId": "myappt50",
+			"databaseURL": "https://myappt50.firebaseio.com",
+			"storageBucket": "myappt50.appspot.com",
+			"locationId": "us-central"
+		}
+	}
+}
