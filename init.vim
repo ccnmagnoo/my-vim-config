@@ -50,6 +50,7 @@ Plug 'Yggdroot/indentLine'
 Plug 'editor-bootstrap/vim-bootstrap-updater'
 Plug 'tpope/vim-rhubarb' " required by fugitive to :Gbrowse
 Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'haishanh/night-owl.vim' ,{'as':'night-owl'}
 
 
 if isdirectory('/usr/local/opt/fzf')
@@ -126,7 +127,6 @@ Plug 'stephpy/vim-php-cs-fixer'
 " python
 "" Python Bundle
 Plug 'davidhalter/jedi-vim'
-Plug 'raimon49/requirements.txt.vim', {'for': 'requirements'}
 
 
 " ruby
@@ -247,9 +247,11 @@ set ruler
 set number
 
 let no_buffers_menu=1
-colorscheme dracula
+colorscheme night-owl
 
-let g:dracula_colorterm = 0
+"let g:dracula_colorterm = 0
+" To enable the lightline theme
+let g:lightline = { 'colorscheme': 'nightowl' }
 
 
 " Better command line completion 
